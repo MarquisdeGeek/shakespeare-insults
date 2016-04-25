@@ -1,0 +1,2 @@
+# shakespeare-insults
+A Slack
